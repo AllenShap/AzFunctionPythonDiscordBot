@@ -210,3 +210,5 @@ azure-identity
 azure-mgmt-compute
 aiohttp 
 ```
+
+To deploy the code to Azure, it's easiest to either use ```func azure functionapp publish {nameOfFunctionApp] --python``` or simply publish it through VSCode. There's distinctions to be made between the deployment methods but they all boil down to being a variation of the classic zip deployment method done manually. None of the methods unfortunately combat the cold start issue greatly enough to allow a consistent 3 second response time.
