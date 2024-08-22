@@ -2,7 +2,7 @@
 
 Discord Bot using Azure Functions.
 
-This repo serves as an example of how I implemented a Discord bot using the Python v2 model on Azure Functions. This method is implemented via the Interactions Endpoint Url on the Discord bot side.
+  This repo serves as an example of how I implemented a Discord bot using the Python v2 model on Azure Functions. This method is implemented via the Interactions Endpoint Url on the Discord bot side.
 ![image](https://github.com/user-attachments/assets/28c34770-3c29-489b-885e-bb68ad74fee4)
 
 
